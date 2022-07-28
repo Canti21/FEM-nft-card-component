@@ -31,8 +31,8 @@ The design references are in the [design folder 📁](./design/).
 
 ### 🔗 Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Deploy]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-t6HTduVrPo)
+- Live Site URL: [Deploy](https://canti21.github.io/FEM-nft-card-component/)
 
 ## 💭 My process 
 
